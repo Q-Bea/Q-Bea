@@ -1,10 +1,11 @@
-# Hello!
+# 👋Hello!
 
 I am a computer science student currently studying at university to receive my Bachelor's degree.
 
-## Links
+## 🔗Links
 
 Website: [b-macdonald.ca](https://b-macdonald.ca)
+
 Resume: [Quantum158/resume](https://github.com/Quantum158/resume)
 
 ## Project Picks
