@@ -1,6 +1,6 @@
 # 👋Hello!
 
-I am a computer science student currently studying at university to receive my Bachelor's degree.
+I am an undergrad student currently studying to receive my Bachelor's degree in computer science.
 
 ## 🔗Links
 
