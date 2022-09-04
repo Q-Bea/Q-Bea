@@ -4,7 +4,7 @@ I am an undergrad student currently studying to receive my Bachelor's degree in 
 
 ## 🔗Links
 
-Website: [b-macdonald.ca](https://b-macdonald.ca)
+Website: [beamacdonald.ca](https://beamacdonald.ca)
 
 Resume: [Quantum158/resume](https://github.com/Quantum158/resume)
 
