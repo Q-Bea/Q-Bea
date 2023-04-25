@@ -6,7 +6,7 @@ I am an undergrad student currently studying to receive my Bachelor's degree in 
 
 Website: [beamacdonald.ca](https://beamacdonald.ca)
 
-Resume: [Quantum158/resume](https://github.com/Quantum158/resume)
+Resume: [beamacdonald.ca/resume](https://beamacdonald.ca/resume)
 
 ## Project Picks
 
