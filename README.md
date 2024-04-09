@@ -10,7 +10,7 @@ Resume: [beamacdonald.ca/resume](https://beamacdonald.ca/resume)
 
 ## Project Picks
 
-[PetWatch](https://github.com/SFU-CMPT372-Team5/PetWatch): Final project for a 300-level class in which teams of 4 were tasked with creating a fullstack web application. Similar to how Project529 helps bike owners recover lost & stolen bikes, our team created an website to help pet owners reunite with their pet if they roam outside the yard.
+[PetWatch](https://github.com/SFU-CMPT372-Team5/PetWatch): Final project for a 300-level class in which teams of 4 were tasked with creating a fullstack web application. Similar to how Project529 helps bike owners recover lost & stolen bikes, our team created a website to help pet owners reunite with their pet if they happen to roam outside the yard.
 
 [Fringe Controller](https://github.com/Q-Bea/Gameshow33Fringe2022): A media projection and management web application created for a show performed at the 2022 Calgary Fringe Festival. Operators could intuitively display and control visuals and sounds split into different "scenes" to compliment actors on-stage.
 
